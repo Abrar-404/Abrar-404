@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-![Green cross on black background](https://github.com/<username>/<repository>/blob/main/cross.svg)
