@@ -1,9 +1,9 @@
-![logo]()
+![logo](https://github.com/Abrar-404/Abrar-404/blob/main/banner.gif)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar-404&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-404" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar-404&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-404" /> </p> <br> <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrar-404" alt="abrar-404" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrar-404" alt="abrar-404" /></a> </p> <br> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
