@@ -50,17 +50,15 @@
 
 
 # My Email
-<h1>alfattaulislamss@gmail.com</h1>
+<h1>alfattaulislamss@gmail.com</h1> <br> <br>
 
 # My Projects
 
-# Automotio
+## Automotio
 - This is a dynamic website based on various cars brands. This website provides the users an unique interface which is visually generic.
 
 ## Links of this project
 [Live Link](https://brand-shop-c499b.web.app/) <br>
-[Client-side Link](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-Abrar-404/tree/main/brand-shop-client) <br>
-[Server-side Link](https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-Abrar-404) <br>
 
 
 # Features of this project
