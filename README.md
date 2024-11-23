@@ -26,7 +26,7 @@
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/outrun/3-stats.svg)](https://github.com/Abrar-404/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/outrun/4-productive-time.svg)](https://github.com/Abrar-404/github-profile-summary-cards) <br> <br>
 
 # Summary of my Profile
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar-404&show_icons=true&locale=en&layout=compact&theme=radical" alt="abrar-404" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abrar-404&show_icons=true&locale=en&layout=compact&theme=radical" alt="Abrar-404" /></p>
 
 
 
